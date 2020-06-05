@@ -1,0 +1,3 @@
+﻿  Demo_ImpersonateLoggedOnUser.cpp
+c:\users\pentest\source\repos\demo_impersonateloggedonuser\demo_impersonateloggedonuser\demo_impersonateloggedonuser.cpp(87): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+  Demo_ImpersonateLoggedOnUser.vcxproj -> C:\Users\Pentest\source\repos\Demo_ImpersonateLoggedOnUser\Debug\Demo_ImpersonateLoggedOnUser.exe

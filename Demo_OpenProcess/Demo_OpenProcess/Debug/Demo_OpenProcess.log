@@ -1,0 +1,3 @@
+﻿  Demo_OpenProcess.cpp
+c:\users\pentest\source\repos\demo_openprocess\demo_openprocess\demo_openprocess.cpp(29): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+  Demo_OpenProcess.vcxproj -> C:\Users\Pentest\source\repos\Demo_OpenProcess\Debug\Demo_OpenProcess.exe

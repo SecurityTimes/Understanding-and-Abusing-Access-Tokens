@@ -1,0 +1,3 @@
+﻿  Demo_OpenProcessToken.cpp
+c:\users\pentest\source\repos\demo_openprocesstoken\demo_openprocesstoken\demo_openprocesstoken.cpp(32): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+  Demo_OpenProcessToken.vcxproj -> C:\Users\Pentest\source\repos\Demo_OpenProcessToken\Debug\Demo_OpenProcessToken.exe
