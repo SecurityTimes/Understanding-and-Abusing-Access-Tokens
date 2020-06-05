@@ -1,0 +1,8 @@
+﻿  CreateProcess.cpp
+c:\users\pentest\source\repos\createprocess\createprocess\createprocess.cpp(6): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+c:\users\pentest\source\repos\createprocess\createprocess\createprocess.cpp(16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'TCHAR *'
+  c:\users\pentest\source\repos\createprocess\createprocess\createprocess.cpp(16): note: consider using '%ls' in the format string
+  c:\users\pentest\source\repos\createprocess\createprocess\createprocess.cpp(16): note: consider using '%lls' in the format string
+  c:\users\pentest\source\repos\createprocess\createprocess\createprocess.cpp(16): note: consider using '%Ls' in the format string
+  c:\users\pentest\source\repos\createprocess\createprocess\createprocess.cpp(16): note: consider using '%ws' in the format string
+  CreateProcess.vcxproj -> C:\Users\Pentest\source\repos\CreateProcess\Debug\CreateProcess.exe
